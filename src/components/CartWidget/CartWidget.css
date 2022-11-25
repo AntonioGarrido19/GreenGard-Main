@@ -1,0 +1,12 @@
+.menu_navbar__cart {
+    height: 25px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-navbar__cart__img {
+    padding: 5px;
+    height: 25px;
+    width: 25px;
+}
